@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qntO9gXQfPLoBCU+rNOgOKpjzGnI9T4QvChU/Q5iIg/htlH196WmddzREu1whp5zCrvekDLt20mYHww1/bPDA==",
+  "dgSpecHash": "7BOrfDPe/BlkwoYsFwb/1YXUPROYJ9Dmb7+kJI9/fCJ1Fu5Oy4xdm8zRAlfWo8sSe3hy5Q2ZUq+TmS4OfGw2pw==",
   "success": true,
-  "projectFilePath": "/Users/elliottfuller/zanon1101/weather-app-dotnet/weather-app-dotnet.csproj",
+  "projectFilePath": "/Users/elliottfuller/zanon1101/weather-app/weather-app-dotnet.csproj",
   "expectedPackageFiles": [
     "/Users/elliottfuller/.nuget/packages/microsoft.netcore.platforms/1.1.1/microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "/Users/elliottfuller/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",

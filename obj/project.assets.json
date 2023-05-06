@@ -2832,11 +2832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elliottfuller/zanon1101/weather-app-dotnet/weather-app-dotnet.csproj",
+      "projectUniqueName": "/Users/elliottfuller/zanon1101/weather-app/weather-app-dotnet.csproj",
       "projectName": "weather-app-dotnet",
-      "projectPath": "/Users/elliottfuller/zanon1101/weather-app-dotnet/weather-app-dotnet.csproj",
+      "projectPath": "/Users/elliottfuller/zanon1101/weather-app/weather-app-dotnet.csproj",
       "packagesPath": "/Users/elliottfuller/.nuget/packages/",
-      "outputPath": "/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/",
+      "outputPath": "/Users/elliottfuller/zanon1101/weather-app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/elliottfuller/.nuget/NuGet/NuGet.Config"
