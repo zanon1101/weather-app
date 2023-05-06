@@ -1,0 +1,15 @@
+/Users/elliottfuller/zanon1101/weather-app-dotnet/bin/Debug/net5.0/weather-app-dotnet.deps.json
+/Users/elliottfuller/zanon1101/weather-app-dotnet/bin/Debug/net5.0/weather-app-dotnet.runtimeconfig.json
+/Users/elliottfuller/zanon1101/weather-app-dotnet/bin/Debug/net5.0/weather-app-dotnet.runtimeconfig.dev.json
+/Users/elliottfuller/zanon1101/weather-app-dotnet/bin/Debug/net5.0/weather-app-dotnet.dll
+/Users/elliottfuller/zanon1101/weather-app-dotnet/bin/Debug/net5.0/ref/weather-app-dotnet.dll
+/Users/elliottfuller/zanon1101/weather-app-dotnet/bin/Debug/net5.0/weather-app-dotnet.pdb
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.csproj.AssemblyReference.cache
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.AssemblyInfoInputs.cache
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.AssemblyInfo.cs
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.csproj.CoreCompileInputs.cache
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.dll
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/ref/weather-app-dotnet.dll
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.pdb
+/Users/elliottfuller/zanon1101/weather-app-dotnet/obj/Debug/net5.0/weather-app-dotnet.genruntimeconfig.cache
