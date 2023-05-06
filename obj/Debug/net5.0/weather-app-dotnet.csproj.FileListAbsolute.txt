@@ -35,3 +35,8 @@
 /Users/elliottfuller/zanon1101/weather-app/obj/Debug/net5.0/ref/weather-app-dotnet.dll
 /Users/elliottfuller/zanon1101/weather-app/obj/Debug/net5.0/weather-app-dotnet.pdb
 /Users/elliottfuller/zanon1101/weather-app/obj/Debug/net5.0/weather-app-dotnet.genruntimeconfig.cache
+/Users/elliottfuller/zanon1101/weather-app/bin/Debug/net5.0/DotNetEnv.dll
+/Users/elliottfuller/zanon1101/weather-app/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+/Users/elliottfuller/zanon1101/weather-app/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/elliottfuller/zanon1101/weather-app/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/elliottfuller/zanon1101/weather-app/bin/Debug/net5.0/Sprache.dll

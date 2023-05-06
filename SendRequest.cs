@@ -1,25 +1,31 @@
 ﻿using System;
 using System.Net.Http;
+using Newtonsoft.Json;
 
 namespace weather_app_dotnet {
 
     class Program {
     static readonly HttpClient client = new HttpClient();
         static async System.Threading.Tasks.Task Main(string[] args){
-            Console.WriteLine("Hello World!");
-            var url = "https://api.openweathermap.org/data/2.5/weather?";
+            DotNetEnv.Env.Load();
+
             var latitude = "lat=37.76&";
             var longitude = "lon=144.96&";
-            var apiKey = "appid=ac9f17c1797aeeab5ede29ce1b75fc4f";
+
+            string url = Environment.GetEnvironmentVariable("API_URL");
+            string apiKey = Environment.GetEnvironmentVariable("API_KEY");
 
             var endpoint = url + latitude + longitude + apiKey;
+
+            Console.WriteLine($"*** Fetching weather data for lat: {latitude} long: {longitude} ***");
             try {
                 using HttpResponseMessage response = await client.GetAsync(endpoint);
                 response.EnsureSuccessStatusCode();
                 string responseBody = await response.Content.ReadAsStringAsync();
+                var parsedJson = JsonConvert.DeserializeObject(responseBody);
 
-                Console.WriteLine(responseBody);
-                Console.WriteLine(response.StatusCode);
+                Console.WriteLine(parsedJson);
+
             } catch (HttpRequestException e){
                 Console.WriteLine("\nException Caught!");
                 Console.WriteLine("Message :{0} ", e.Message);
